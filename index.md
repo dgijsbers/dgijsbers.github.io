@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Demery Gijsbers
+(Dem-err-ee Guyz-Burrs)
 
-You can use the [editor on GitHub](https://github.com/dgijsbers/dgijsbers.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ice cream connoisseur, first and foremost. Avid advocate for the-big-‘U’-User, forever a learner, many times a designer, too often a jokester, a growing researcher and knitter, an aspiring vegetarian chef, and graduate of the University of Michigan. Professionally, a product designer at Ford Motor Company. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
